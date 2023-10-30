@@ -1,2 +1,2 @@
-# Anage
-Website project for the business called 'Anage'.
+# LOKIN
+Website project for the business called 'LOKIN'.
